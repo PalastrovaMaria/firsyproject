@@ -54,7 +54,7 @@ class WordsMassive:
         print(self.all_words)
 
 
-
+print('hello world')
 
 
 Example()
